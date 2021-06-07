@@ -1,8 +1,8 @@
-### FlexBox avec les Média Queries
+# FlexBox avec les Média Queries
 
-# J'ai réalisé un modèle de base avec FlexBoxe et les Média queries.
+### J'ai réalisé un modèle de base avec FlexBoxe et les Média queries.
 
-# Une fois téléchargé ce modèle, vous pouvez commencer à réaliser vos projets sans se faire de souci au neveu de flexibilité.
+### Une fois téléchargé ce modèle, vous pouvez commencer à réaliser vos projets sans se faire de souci au neveu de flexibilité.
 
 
 # Langages utilisés
