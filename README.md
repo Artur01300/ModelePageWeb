@@ -5,7 +5,7 @@
 # Une fois téléchargé ce modèle, vous pouvez commencer à réaliser vos projets sans se faire de souci au neveu de flexibilité.
 
 
-## Langages utilisés
+# Langages utilisés
 *HTML 5
 *CSS 3
 
